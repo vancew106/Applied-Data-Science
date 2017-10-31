@@ -1,6 +1,6 @@
 # Applied-Data-Science
-applied data science with python
+Applied data science with python
 
-Mini project from the educational level.
+Mini projects from the educational level.
 
 Python 3
